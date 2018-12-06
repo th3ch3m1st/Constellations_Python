@@ -1,0 +1,5 @@
+message1 = "Hello, world!"
+message2 = "Hey, Hi, How you doin?"
+
+print(message1)
+print(message2)
